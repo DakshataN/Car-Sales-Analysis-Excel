@@ -8,7 +8,7 @@ The objective is to organise and summarise the sales data using Pivot Tables and
 
 ## Course & Assignment Context
 
-This project was completed as part of the **Data Visualization and Dashboards with Excel and Cognos** course on [Coursera](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos/home/welcome), offered under the **IBM Data Analyst Professional Certificate**.
+This project was completed as part of the **Data Visualization and Dashboards with Excel and Cognos** course on Coursera, offered under the **IBM Data Analyst Professional Certificate**.
 
 ## Tasks Performed
 
