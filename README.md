@@ -6,6 +6,10 @@ This project involves analysing car sales data using Microsoft Excel. The datase
 
 The objective is to organise and summarise the sales data using Pivot Tables and represent key findings through Pivot Charts.
 
+## Course & Assignment Context
+
+This project was completed as part of the **Data Visualization and Dashboards with Excel and Cognos** course on [Coursera](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos/home/welcome), offered under the **IBM Data Analyst Professional Certificate**.
+
 ## Tasks Performed
 
 ### 1. Quantity Sold by Dealer ID
